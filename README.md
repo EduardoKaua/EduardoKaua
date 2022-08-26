@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-kauã-de-souza-418683227/"><i>Eduardo Kauã</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento de Sistemas na <a href="Eliti.com.br"><i>ELITI</i></a>
+  <p align="center">Estudo Desenvolvimento de Sistemas na <a href="eliti.com.br"><i>ELITI</i></a>
  
 <div align="center">
    <a href="https://github.com/EduardoKaua">
