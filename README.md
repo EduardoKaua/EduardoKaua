@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/eduardo-kauã-de-souza-418683227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-![Snake animation](https://github.com/EduardoKaua/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EduardoKaua_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
