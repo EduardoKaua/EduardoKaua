@@ -30,7 +30,8 @@
 
 <div align="center">
   
-  ![Snake gif](https://github.com/EduardoKaua/EduardoKaua/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/EduardoKaua/EduardoKaua/blob/output/github-contribution-grid-snake.svg)
 
 
   
